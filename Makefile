@@ -1,4 +1,4 @@
-in_memory:
+run:
 	@echo "Start application..."
 	docker-compose up --build
 
